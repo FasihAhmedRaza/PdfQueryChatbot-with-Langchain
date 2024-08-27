@@ -11,7 +11,7 @@ import openai
 
 # Set the password and the OpenAI API key in the backend
 backend_password = "10"
-backend_openai_api_key = "sk-proj-SD4O6s1SWoXLnmuZe6LtT3BlbkFJEneWZSk8hLv3h1oXCfjK"
+# backend_openai_api_key = "apikey"
 
 def validate_openai_key(api_key):
     try:
